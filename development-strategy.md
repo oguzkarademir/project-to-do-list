@@ -40,3 +40,24 @@ This user story was developed on a branch called `.....`
 ## JS
 
 - .........................
+
+## 2. Add tasks
+
+> assigned to `oguz`  
+> reviewers `Yauhenia` , `Olga`, `Sayed`, `Pavel`
+
+## Repo
+
+This user story was developed on a branch called `add-button`
+
+### HTML
+
+- Nothing changed
+
+### CSS
+
+- Nothing changed
+
+## JS
+
+- 
