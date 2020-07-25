@@ -1,1 +1,3 @@
-let words = ['toad', 'road', 'roam'];
+let toDoList = ['toad', 'road', 'roam'];
+
+const itemList = document.querySelector(".item-list");

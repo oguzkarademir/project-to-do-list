@@ -63,10 +63,17 @@ This user story was developed on a branch called `add-button`
 > reviewers `Yauh` , `Olga` and `Sayed`
 
 ## Repo
+This step closes issue # 3
 
-This user story was developed on a branch called `...`
+This user story was developed on a branch called `show-and-clear-all`
+
 
 ## JS
+* Handler for list of items initial output added
+* Handler and appropriate function for `Clear all` added
+
+## HTML
+Onclick event handler added to the button `Clear items`
 
 - .........................
 
