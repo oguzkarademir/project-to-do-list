@@ -6,36 +6,36 @@ A simple webpage where we work collaboratively on objects and arrays. We created
 
 ## Wireframe
 
-![wireframe](.\images\...)
+![wireframe](.\images...)
 
-## 0. Set-Up
+## 0. Set-Up by allMighty Oguz.
 
 ### Repository
 
-- Created a new repository [using this repo](https://github.com/HackYourFutureBelgium/testing-module-project-boilerplate)
+- Created a new repository [using this repo](https://github.com/oguzkarademir/project-to-do-list)
 - Cloned the repository
 - Started `development-strategy.md` file
 - Started `user-stories.md` file
-- Added [this wireframe](.\images\...)
+- Added [this wireframe](https://jsbeginners.com/todo-list-javascript-project-v1/)
 - Turned on GitHub Pages
 - Pushed the changes
 
-## 1. ....
+## 1. Design
 
-> assigned to `...`  
-> reviewers `....` , `....` and `.....`
+> assigned to `Yauh` and `team of all us allmighty PEOPLE`
+> reviewers `Pavel` , `Olga` and `Oguz`
 
 ## Repo
 
-This user story was developed on a branch called `.....`
+This user story was developed on a branch called `master`
 
 ### HTML
 
-- .......................
+- HTML DOM with bootstrap elements
 
 ### CSS
 
-- ........................
+- BootsTrap elements
 
 ## JS
 
@@ -43,21 +43,68 @@ This user story was developed on a branch called `.....`
 
 ## 2. Add tasks
 
-> assigned to `oguz`  
-> reviewers `Yauhenia` , `Olga`, `Sayed`, `Pavel`
+> assigned to `Oguz`  
+> reviewers `Pavel` , `Olga` and `Sayed`
 
 ## Repo
 
 This user story was developed on a branch called `add-button`
 
-### HTML
+## JS
 
-- Nothing changed
+- Used `document.createElement()` to create new elements in HTML
+- Used `setAttribute()` method to adjust class name
+- Used `appendChild()` method to nested elements
+- Used `document.createTextNode()` to add user input in `h5` tag
 
-### CSS
+## 3. Clear all items
 
-- Nothing changed
+> assigned to `Pavel`  
+> reviewers `Yauh` , `Olga` and `Sayed`
+
+## Repo
+
+This user story was developed on a branch called `...`
 
 ## JS
 
-- 
+- .........................
+
+## 4. Edit my task
+
+> assigned to `Yauh`  
+> reviewers `Oguz` , `Olga` and `Sayed`
+
+## Repo
+
+This user story was developed on a branch called `...`
+
+## JS
+
+- .........................
+
+## 5. Mark as done task
+
+> assigned to `Olga`  
+> reviewers `Oguz` , `Pavel` and `Sayed`
+
+## Repo
+
+This user story was developed on a branch called `...`
+
+## JS
+
+- .........................
+
+## 6. Remove one task
+
+> assigned to `Sayed`  
+> reviewers `Oguz` , `Pavel` and `Olga`
+
+## Repo
+
+This user story was developed on a branch called `...`
+
+## JS
+
+- .........................
