@@ -94,11 +94,13 @@ This user story was developed on a branch called `...`
 
 ## Repo
 
-This user story was developed on a branch called `...`
+This user story was developed on a branch called `done-button`
 
 ## JS
 
-- .........................
+- use DOM querySelector() Method for get the element in the document for checking "done";
+- use DOM addEventListener() Method for attach a click event
+- use DOM classList.toggle() Method for active special class of CSS-style to change style of checking item
 
 ## 6. Remove one task
 
