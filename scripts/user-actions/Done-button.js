@@ -1,10 +1,15 @@
-function doneButtonHandler () {
+function doneButtonHandler() {
     debugger;
     
-    let item = document.querySelector('.item');
+    let items = document.querySelectorAll('.item');
     
-    item.querySelector('.complete-item').addEventListener('click', function(){
-        item.querySelector('.item-name').classList.toggle('completed');
-        this.classList.toggle('visibility');
+    items.forEach(function(item) {
+        item.querySelector('.complete-item').addEventListener('click', function(){
+            item.querySelector('.item-name').classList.toggle('completed');
+            this.classList.toggle('visibility');
+        });
     });
+    
 }
+
+    
