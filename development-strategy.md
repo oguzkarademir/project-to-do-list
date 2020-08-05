@@ -52,10 +52,11 @@ This user story was developed on a branch called `add-button`
 
 ## JS
 
-- Used `document.createElement()` to create new elements in HTML
-- Used `setAttribute()` method to adjust class name
-- Used `appendChild()` method to nested elements
-- Used `document.createTextNode()` to add user input in `h5` tag
+- Got element with querySelector method
+- Created an array to store user input
+- Created a function to get user input and store in our array with push() method
+- Used LocalStorage, .setItem() and .getItem() property to prevent the list disappear when the page is refreshed
+- Created another function for converting our array to a string with map() method and change the HTML content with .innerHTML property
 
 ## 3. Clear all items
 
@@ -97,11 +98,13 @@ This user story was developed on a branch called `...`
 
 ## Repo
 
-This user story was developed on a branch called `...`
+This user story was developed on a branch called `done-button`
 
 ## JS
 
-- .........................
+- use DOM querySelector() Method for get the element in the document for checking "done";
+- use DOM addEventListener() Method for attach a click event
+- use DOM classList.toggle() Method for active special class of CSS-style to change style of checking item
 
 ## 6. Remove one task
 

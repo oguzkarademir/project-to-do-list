@@ -1,3 +1,3 @@
-let toDoList = ['toad', 'road', 'roam'];
+let toDoList = [];
 
 const itemList = document.querySelector(".item-list");
