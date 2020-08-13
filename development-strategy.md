@@ -48,11 +48,15 @@ This user story was developed on a branch called `master`
 
 ## Repo
 
-This user story was developed on a branch called `...`
+This user story was developed on a branch called `add-button`
 
 ## JS
 
-- .........................
+- Got element with querySelector method
+- Created an array to store user input
+- Created a function to get user input and store in our array with push() method
+- Used LocalStorage, .setItem() and .getItem() property to prevent the list disappear when the page is refreshed
+- Created another function for converting our array to a string with map() method and change the HTML content with .innerHTML property
 
 ## 3. Clear all items
 
